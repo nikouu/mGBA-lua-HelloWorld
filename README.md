@@ -13,8 +13,6 @@ Simple hello world using lua with mGBA.
 1. The Hello World script will automatically run to display the "Hello World" message.
 ![](img/RunningScript.jpg)
 
-Note: The `Run` button and input are used similar to a REPL - it won't rerun your script unless you load it again via the `File` options. 
-
 ## Documentation 
 Scripting documentation can be found on the [mGBA Scripting Docs page](https://mgba.io/docs/scripting.html). 
 
